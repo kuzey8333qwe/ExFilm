@@ -1,1 +1,6 @@
-# ExFilm
+# EK Film
+ÖNSÖZ
+Bu çalışmada, dijital içerik tüketiminin önemli bir parçası olan film izleme platformlarına yönelik geliştirilen bir film izleme sitesi projesi detaylı bir şekilde incelenmiştir. Proje, günümüz dijital dünyasında kullanıcıların kaliteli ve erişilebilir içeriklere ulaşmasını sağlamak, içerik yönetimini kolaylaştırmak ve kullanıcı deneyimini en üst düzeye çıkarmak amacıyla geliştirilmiştir.
+Film izleyicileri için özel olarak tasarlanan bu sistem, hem içerik sağlayıcıların (admin) hem de izleyicilerin ihtiyaçlarını karşılayacak şekilde yapılandırılmıştır. Site üzerinden kullanıcılar giriş yapabilir, filmleri izleyebilir, yorumlarda bulunabilir ve kategoriler üzerinden arama yapabilirken; yöneticiler (admin) yeni filmler ekleyebilir, mevcut içerikleri düzenleyebilir veya silebilir.
+Proje, kullanıcı odaklı bir arayüz ile sunularak, her seviyeden internet kullanıcısının platformu rahatlıkla kullanabilmesini hedeflemektedir. Film detaylarının düzenli bir şekilde sunulması ve kullanıcı yorumlarının etkili bir biçimde yönetilebilmesi sayesinde platform, kullanıcı memnuniyetini ön planda tutmaktadır.
+Geliştirme süreci boyunca, medya sektörünün dinamikleri ve kullanıcı alışkanlıkları dikkate alınarak, sistemin her modülü titizlikle planlanmıştır. Bu proje, çevrimiçi eğlence sektöründe dijital dönüşümün önemli bir parçası olarak kullanıcı dostu ve güvenilir bir çözüm sunmayı amaçlamaktadır.
