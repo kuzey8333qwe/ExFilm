@@ -1,0 +1,114 @@
+/* Genel Stil */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #2C343F;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #2C343F;
+    border-radius: 8px;
+}
+
+/* Header */
+header {
+    background-color: #14171C;
+    padding: 15px 0;
+}
+
+header h1 {
+    color: #fff;
+    text-align: left;
+    padding-left: 20px; /* Sol taraftan biraz boşluk ekleyebilirsin */
+    font-family: 'Sharp Grotesk SmBold 20 Regular', sans-serif; /* Fontu kullan */
+    padding-right: 50px;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    font-family: 'Sharp Grotesk SmBold 20 Regular', sans-serif; /* Fontu kullan */
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+header nav ul li a {
+    color: #556678;   
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s; /* Geçiş efekti */
+}
+
+header nav ul li a:hover {
+    color: #fff; /* Üzerine gelindiğinde beyaz renk */
+}
+
+/* Film Listesi */
+.film-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.film-item {
+    width: 30%;
+    margin: 15px 0;
+    padding: 10px;
+    border: 1px solid #556678;
+    border-radius: 8px;
+    background-color: #556678;
+    text-align: center;
+}
+
+.film-item img {
+    width: 50%;
+    height: auto;
+}
+
+/* Film Detayları */
+.film-details img {
+    width: 30%;
+    float: left;
+    margin-right: 20px;
+}
+
+.film-details p {
+    font-size: 18px;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+.yorum-bolumu {
+    background: #1C2630;
+    padding: 20px;
+    border-radius: 8px;
+    color: #fff;
+}
+.yorum-bolumu textarea {
+    background: #2A3B47;
+    color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+
+
